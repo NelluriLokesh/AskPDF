@@ -60,7 +60,7 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## Author
-Developed by **[Nelluri Lokesh]**
+Developed by **Nelluri Lokesh**
 
 ## Contributing
 Feel free to fork this repository, submit issues, and send pull requests to improve the project.
